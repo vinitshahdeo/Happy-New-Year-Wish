@@ -6,11 +6,11 @@ So, email personalized e-card to your loved ones and make them feel special.
 <p align="center">
 <br/>
 <img src="https://github.com/vinitshahdeo/Happy-New-Year-Wish/blob/master/home%20page.PNG"/>
-<br/>
+<br/><br/><br/><br/>
 <img src="https://github.com/vinitshahdeo/Happy-New-Year-Wish/blob/master/greetings.PNG"/>
 <br/>
 </p>
 
-You can view demo here: <a href="http://vinitshahdeo.com/2017/" target="_blank"/>
-
-Thank you!
+### You can view demo here: <a href="http://vinitshahdeo.com/2017/" target="_blank"/>Click here</a>
+<br/>
+#### Thank you!
