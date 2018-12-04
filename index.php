@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 <style>
 body{
-background-image: url("giphy.gif");
+background-image: url("http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-1.gif#.XAWm_qFet6M.link");
 background-attachment: fixed;
 background-color: #5e0d0c;
 }
