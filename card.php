@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
   <link rel="stylesheet" href="css/style.css">
 	  <style>
+          
 
 h2 {
   color: #888;
@@ -122,7 +123,7 @@ $fname=$_GET['fname'];
      class="txt-rotate"
      data-period="2000"
      data-rotate='[ "Hello <?php echo $fname;?>", 
-     "2017 will be great for you.", 
+     "2018 will be great for you.", 
 	 "Thank You!",
    "Regards - Vinit Shahdeo",
    "Developed by - Vinit Shahdeo" ]'></span>
