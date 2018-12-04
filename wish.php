@@ -7,9 +7,9 @@
 	}
 if(isset($_POST['sbt']))
 {
-$url = "http://www.vinitshahdeo.com/2017/index.php?msg=".urlencode($_POST['name']);    
+ $url = "http://www.vinitshahdeo.com/projects/HappyNewYear/index.php?msg=".urlencode($_POST['name']);    
  $to =$_POST['femail'];
- $subject = $_POST['name']."has sent you an
+ $subject = $_POST['name']." has sent you an
  eCard!";
  $name=$_POST['name'];
  $fname=$_POST['fname'];
@@ -25,7 +25,7 @@ if(isset($_POST['sbt']))
 {
  $name=$_POST['name'];
  $fname=$_POST['fname'];
- $link= "http://www.vinitshahdeo.com/2017/card.php?name=$name&fname=$fname";
+ $link= "http://www.vinitshahdeo.com/projects/HappyNewYear/card.php?name=$name&fname=$fname";
  echo "<center>";
  echo "<h1 style='color:#a61715;font-family:verdana'>Kindly copy the link and send to your loved ones!</h1>";
  echo "<h3 style='color:#1BC8C5; font-family:arial'><a href='$link'>$link</a></h3>";
